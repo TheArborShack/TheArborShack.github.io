@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: ArborShack
+title: Arborshack
 description: Home of the Arborlads! We work on bringing you your favorite foods and drinks so you can enjoy! Thanks for visiting, and if you are hungry, definitely buy from us! Thanks!
